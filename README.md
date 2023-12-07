@@ -21,6 +21,8 @@ Considering our concept is camera-based and the cone detection neural network is
 
 We are commited to the advancement of both the formula student driverless community as well as the autonomous robotics community in general, which is the reason why we make our codebase publicly available in [GitHub](https://github.com/FSLART).
 
+Find more detailed technical information [here](DOCUMENTATION.md). Inside each repository, you can find even more detailed documentation on its "Wiki" section.
+
 ## Technology stack
 
 We use a variety of technologies to make our concept reality. Below are the most significant.
