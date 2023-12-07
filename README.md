@@ -37,3 +37,19 @@ We use a variety of technologies to make our concept reality. Below are the most
 - PyTorch
 - OpenCV
 - CUDA
+
+# Electronics Department
+
+The electronics department develops the electronic modules of the department and its corresponding firmware firmware.
+
+## Technology Stack
+
+### Languages
+
+- C/C++
+- Python
+
+### Tools
+
+- Altium Designer
+- MPLAB IDE
